@@ -26,6 +26,3 @@ Notes as I go
 
 (filled in as I work through it)
 
-How to run
-
-The notebook is written for Google Colab with a GPU runtime (Runtime → Change runtime type → T4 GPU). Open it, run the cells top to bottom.
